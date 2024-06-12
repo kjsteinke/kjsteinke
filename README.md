@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/placer-ksteinke/placer-ksteinke/blob/main/github-header-image.png)
+![Banner Image](https://github.com/kjsteinke/kjsteinke/blob/main/github-header-image-me.png)
 
 # Hi there, I'm Kevin Steinke! 👋
 
