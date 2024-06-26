@@ -22,9 +22,9 @@ I'm a Developer with experience in C#, SQL, Powershell, and Blazor. I'm interest
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://kevinsteinke.com)
-- **[LinkedIn]**(https://www.linkedin.com/in/kevinsteinke)
-- **[Work GitHub]**(https://github.com/placer-ksteinke)
+- [Personal Website / Blog](https://kevinsteinke.com)
+- [LinkedIn](https://www.linkedin.com/in/kevinsteinke)
+- [Work GitHub](https://github.com/placer-ksteinke)
 
 
 <!--
